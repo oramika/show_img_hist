@@ -15,7 +15,7 @@ def get_image():
 
     st.image(
         im,
-        caption='image from wikimedia commons. This sentence is added.',
+        caption='image from wikimedia commons. I add this sentences.',
         use_column_width=True
     )
 
